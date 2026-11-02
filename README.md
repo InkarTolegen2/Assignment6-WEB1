@@ -4,6 +4,7 @@
 **Group:** SE-2540
 
 **GitHub Pages:** https://inkartolegen2.github.io/Assignment6-WEB1/
+**URL:**  https://inkartolegen2.github.io/Assignment6-WEB1/
 
 ---
 
